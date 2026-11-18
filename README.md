@@ -1,4 +1,4 @@
-# mcpbinder-com
+# MCPBinder
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -65,4 +65,127 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 mcpbinder-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://mcpbinder.com/
+
+**Areas:** Workspace · AI Agent Integration
+
+## MCPBinder on APIs.io
+
+Everything profiled for MCPBinder is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mcpbinder-com/](https://apis.io/providers/mcpbinder-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [MCPBinder REST API](https://apis.io/apis/mcpbinder-com/mcpbinder-rest-api/) — API for managing workspaces, projects, tasks and webhooks as documented on the MCPBinder developer site.
+- [MCPBinder API](https://apis.io/apis/mcpbinder-com/mcpbinder-com-api/) — MCPBinder API as documented publicly: 8 operations. Contract generated from the documentation by API Evangelist (2026-11-18); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Mcpbinder Com Webhooks](https://apis.io/asyncapis/mcpbinder-com/mcpbinder-com-webhooks/)
+
+#### JSON Schema (5)
+
+The data models the API reads and writes.
+
+- [GetApiV1TasksResponse](https://apis.io/schemas/mcpbinder-com/mcpbinder-com-get-api-v1-tasks-response/)
+- [GetProjectsResponse](https://apis.io/schemas/mcpbinder-com/mcpbinder-com-get-projects-response/)
+- [GetTasksResponse](https://apis.io/schemas/mcpbinder-com/mcpbinder-com-get-tasks-response/)
+- [PatchTasksIdRequest](https://apis.io/schemas/mcpbinder-com/mcpbinder-com-patch-tasks-id-request/)
+- [PostTasksRequest](https://apis.io/schemas/mcpbinder-com/mcpbinder-com-post-tasks-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Mcpbinder Com Context](https://apis.io/jsonld/mcpbinder-com/mcpbinder-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [MCPBinder API Rules](https://apis.io/rules/mcpbinder-com/mcpbinder-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [MCPBinder Domain Security](https://apis.io/security/mcpbinder-com/mcpbinder-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [MCPBinder Plans Pricing](https://apis.io/plans/mcpbinder-com/mcpbinder-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.mcpbinder.com/)
+- [Documentation](https://www.mcpbinder.com/docs/api)
+- [Getting started](https://www.mcpbinder.com/docs/getting-started)
+- [Pricing](https://www.mcpbinder.com/pricing)
+- [Support](https://www.mcpbinder.com/help)
+- [Security](https://www.mcpbinder.com/security)
+- [Terms of service](https://www.mcpbinder.com/terms)
+- [Privacy policy](https://www.mcpbinder.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 47.9** — developing · rubric 0.28.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 39.3 |
+| Contract quality | 56.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 21.4 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 59.1 |
+
+**Agent readiness 27.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mcpbinder-com/](https://apis.io/providers/mcpbinder-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MCPBinder: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mcpbinder-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
